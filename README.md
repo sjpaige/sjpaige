@@ -57,5 +57,5 @@ I love solving challenging problems that help me to grow. I read books for fun a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjpaige&layout=compact)](https://github.com/sjpaige)
 
 ## Reading
-- *Consider Phlebas* by Iain M Banks
+- *A Small Farm Future* by Chris Smaje
 
